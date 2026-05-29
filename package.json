@@ -56,6 +56,7 @@
     "plugin/scripts/CLAUDE.md",
     "plugin/skills",
     "plugin/ui",
+    "plugin/node_modules",
     "openclaw"
   ],
   "engines": {
